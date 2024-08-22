@@ -1,6 +1,8 @@
 ## Project Overview:
 This project is designed to transform Atliq Hardware's operations by strategically streamlining and optimizing critical functions across Finance, Sales, Supply Chain, Executive Management, and Marketing. Our targeted initiatives focus on enhancing operational efficiency, minimizing costs, and fostering sustainable growth. By aligning these key areas, we aim to drive a comprehensive, long-term improvement in the company's performance, ensuring a robust and future-ready organization.
 
+- **Live Dashboard Link:** https://app.powerbi.com/view?r=eyJrIjoiM2U0MzhhZDgtYTU2MC00NTE1LTkwMjItNzAxZjM1OTNlNzg0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 ## Finance View:
 
 - **Objectives:**
